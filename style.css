@@ -1,0 +1,56 @@
+
+
+.about-img {
+    width: 120px;
+    height: 155px;
+  }
+body {
+  background-color: blue;
+}
+
+#containerbg {
+  background-color: #eee;
+}
+
+.about-me {
+  margin-top: 20px;
+}
+
+footer {
+  padding: 20px;
+  background-color: darkgrey;
+  position: absolute;
+   width: 100%;
+  text-align: center;
+}
+#nav-background {
+  background-color: aqua;
+  font-size: xx-large;
+  font-family: sans-serif;
+  margin-left: initial;
+  
+  }
+
+.portfolio-card {
+  width: 200px;
+  margin: left;
+}
+
+.portfolio-card-title {
+  position: relative;
+    text-align: center;
+  padding: 10px;
+  bottom: 10px;
+}
+.footer-portfolio {
+  bottom:0;
+}
+@media print {
+  .container {
+    width: auto;
+      }
+}
+.portfolio-card-img {
+  width: 400px;
+  height: 300px;
+}
