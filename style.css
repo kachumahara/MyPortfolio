@@ -1,11 +1,15 @@
 
-
+html {
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+}
 .about-img {
     width: 120px;
     height: 155px;
   }
 body {
   background-color: blue;
+
 }
 
 #containerbg {
@@ -24,9 +28,9 @@ footer {
   text-align: center;
 }
 #nav-background {
-  background-color: aqua;
+  
   font-size: xx-large;
-  font-family: sans-serif;
+  font-family: fantasy;
   margin-left: initial;
   
   }
@@ -38,9 +42,10 @@ footer {
 
 .portfolio-card-title {
   position: relative;
-    text-align: center;
+  text-align: center;
   padding: 10px;
   bottom: 10px;
+  font-size: small;
 }
 .footer-portfolio {
   bottom:0;
