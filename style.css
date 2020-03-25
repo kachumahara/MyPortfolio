@@ -22,6 +22,10 @@ body {
 h6 {
   text-align: center;
 }
+h4 {
+  text-align: center;
+  text-decoration: dotted;
+}
 footer {
   padding: 20px;
   background-color: darkgrey;
